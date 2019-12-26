@@ -1,4 +1,4 @@
-# Nomflix
+# Snowflix
 
 Learning React and ES6 by building a Movie Discovery App.
 
@@ -7,3 +7,16 @@ Learning React and ES6 by building a Movie Discovery App.
 - TV Shows
 - Search
 - Detail
+
+## it shows
+- Now playing (Movie)
+- Upcoming (Movie)
+- Top Rated (TV)
+- Popular (TV, Movie)
+- Airing Today (TV)
+- TV details
+- Movie details
+- Search movie and tv
+## Movie from ..
+- The Movie DB
+-
