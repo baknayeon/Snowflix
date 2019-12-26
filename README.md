@@ -17,6 +17,13 @@ Learning React and ES6 by building a Movie Discovery App.
 - TV details
 - Movie details
 - Search movie and tv
+
+## I will add more
+- TV Movie Reviews
+- Similar TVs shows and Movie
+- Movie release Dates
+- Recommendations
+
 ## Movie from ..
 - The Movie DB
--
+
